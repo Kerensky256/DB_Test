@@ -1,0 +1,32 @@
+{
+    "name": "Bangor",
+    "books": [
+       
+        {
+            "name": "QuickSilver",
+            "author": "Neal Stephenson",
+            "category": "Fiction"
+        },
+        {
+            "name": "2001: A Space Odyssey",
+            "author": "Arthur C. Clarke",
+            "category": "Science Fiction"
+        },
+        {
+            "name": "Tinker Tailor Soldier Spy",
+            "author": "John Le Carre",
+            "category": "Fiction"
+        },
+        {
+            "name": "Java Puzzlers",
+            "author": "Joshua Bloch",
+            "category": "IT"
+        },
+        {
+            "name": "Head First Design Patterns ",
+            "author": "Eric Freeman",
+            "category": "IT"
+        }
+    ]
+}
+

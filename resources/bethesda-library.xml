@@ -1,0 +1,28 @@
+<library>
+	<name>Bethesda</name>
+
+	<books>
+		<book>
+			<title>Clean Code</title>
+			<author>Robert C Martin</author>
+			<category>IT</category>
+		</book>
+		<book>
+			<title>Effective Java</title>
+			<author>Joshua Bloch</author>
+			<category>IT</category>
+		</book>
+		<book>
+			<title>Snow Crash</title>
+			<author>Neal Stephenson</author>
+			<category>Science Fiction</category>
+		</book>
+		<book>
+			<title>Snow Crash</title>
+			<author>Neal Stephenson</author>
+			<category>Science Fiction</category>
+		</book>
+
+	</books>
+
+</library>
